@@ -1,0 +1,22 @@
+id: DF184AFB1
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-23T12:15:49+00:00'
+last_modified: '2022-05-30T07:57:15.542205+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    f2ec:
+      image_group_id: I1PD96844
+      title: འཕགས་པ་བྱམས་པ་འཇུག་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
+      total_pages: 872
+      order: 61
+      base_file: f2ec.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
